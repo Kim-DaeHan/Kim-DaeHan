@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20Hans%20GitHub&fontSize=40&fontColor=ed6f63&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20Hans%20GitHub&fontSize=40&fontColor=D64161&animation=twinkling)
   <br/>
   <br/>
   <br/>
@@ -9,7 +9,7 @@
 ## 📊 Git State
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-DaeHan&count_bg=%233475C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-![DaeHan Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-DaeHan&show_icons=true&include_all_commits=true&theme=tokyonight)
+![DaeHan Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-DaeHan&show_icons=true&include_all_commits=true&theme=dracula)
 <br/>
 <br/>
 <br/>
@@ -76,5 +76,6 @@
   <br/>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
