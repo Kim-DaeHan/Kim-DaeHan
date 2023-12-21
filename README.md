@@ -72,7 +72,7 @@
   <br/>
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white">
-  <img src="https://img.shields.io/badge/solana-01FF95?style=for-the-badge&logo=solana&logoColor=white">
+  <img src="https://img.shields.io/badge/solana-01FF95?style=for-the-badge&logo=solana&logoColor=black">
   <br/>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
